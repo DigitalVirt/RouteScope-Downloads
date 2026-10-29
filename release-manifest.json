@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "releaseTag": "v0.1.1-build.6.1",
-  "releaseUrl": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/tag/v0.1.1-build.6.1",
-  "publishedAt": "2026-10-29T11:03:52.640418+00:00",
+  "releaseTag": "v0.1.1-build.7.1",
+  "releaseUrl": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/tag/v0.1.1-build.7.1",
+  "publishedAt": "2026-10-29T11:11:38.365991+00:00",
   "build": {
-    "runId": 40860860084,
-    "runNumber": 6,
+    "runId": 40862419574,
+    "runNumber": 7,
     "runAttempt": 1,
-    "commit": "0349b41d9fa88096092e2fa6d924f57e80fa2fa3"
+    "commit": "ca0dcd908b19e8760b9ceb53d784a6ebfb1b4f95"
   },
   "windows": {
     "version": "v0.1.1",
@@ -15,37 +15,37 @@
     "x64": {
       "installer": {
         "file": "RouteScope-Setup-0.1.1-x64.exe",
-        "sizeBytes": 49355526,
+        "sizeBytes": 49355668,
         "size": "47.1 MB",
-        "md5": "fdb1421fc315b9e5b784b90d61554776",
-        "sha256": "f396304de96b85076e0e05336d54935e746bed286c2a99edf8791c975605caf9",
-        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-Setup-0.1.1-x64.exe"
+        "md5": "bfa11c53a9e02f6728d326153ba25081",
+        "sha256": "4390fd2765fa70bf3c36b536db2c5eadbb9ae578b5f4b217e8ddda3ae559b0df",
+        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-Setup-0.1.1-x64.exe"
       },
       "portable": {
         "file": "RouteScope-0.1.1-win-x64-portable.zip",
-        "sizeBytes": 66507758,
+        "sizeBytes": 66507825,
         "size": "63.4 MB",
-        "md5": "5a4de7dff51c59ebb3bb24668e90098f",
-        "sha256": "76b4f4e1f46f3273085fb1263d702c74734ce85f8cfd5cb9c27b56cfde7a4d12",
-        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-0.1.1-win-x64-portable.zip"
+        "md5": "27c0480a7fda404b0982fbcbfce55b98",
+        "sha256": "0cd173321c2ee25b6260574e2ab5592c80cb4f6c69b04800bf040bed14af9622",
+        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-0.1.1-win-x64-portable.zip"
       }
     },
     "arm64": {
       "installer": {
         "file": "RouteScope-Setup-0.1.1-arm64.exe",
-        "sizeBytes": 43876858,
+        "sizeBytes": 43873435,
         "size": "41.8 MB",
-        "md5": "1dbf1779e010657fdad898a603c11fca",
-        "sha256": "8f24765cb2d1a572964f4f8f87b3f4eb5c728be503ee5c382c2625a0670d0482",
-        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-Setup-0.1.1-arm64.exe"
+        "md5": "e12dcf3629f937781dca3faec83b2b36",
+        "sha256": "e7105683b16e8ba0e34cb725b3a1b69863960ae0ea7a923142b38e0ddf043987",
+        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-Setup-0.1.1-arm64.exe"
       },
       "portable": {
         "file": "RouteScope-0.1.1-win-arm64-portable.zip",
-        "sizeBytes": 61451840,
+        "sizeBytes": 61451890,
         "size": "58.6 MB",
-        "md5": "761e57cdcdedf0ee93e7349e940eb4f6",
-        "sha256": "d3548392a843a27a3ce27a879863acbabc842ed79e61190a6f12e1cebb521af7",
-        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-0.1.1-win-arm64-portable.zip"
+        "md5": "c834ce1e3fe9f44339b89b84b009bb07",
+        "sha256": "522676498b67e71326d40979884c21d886d5857225d762a96a7743f01b2bcaf2",
+        "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-0.1.1-win-arm64-portable.zip"
       }
     }
   },
@@ -56,7 +56,7 @@
     "size": "4.5 MB",
     "md5": "bb09c9f22e71e57f32868f75ee3963bc",
     "sha256": "1132824fb8cb8d57975b49e80b482639ba6eb2bd15c2f695cd99bfe9b4793d94",
-    "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-0.2.3.dmg"
+    "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-0.2.3.dmg"
   },
   "android": {
     "version": "v0.1.0",
@@ -65,7 +65,7 @@
     "size": "6.5 MB",
     "md5": "76842adf3ee88863326a0167aa05e076",
     "sha256": "15021c7d21bf59d4981b823f237fb350294ef9ace32b9ab1f8c7152ad806f3ce",
-    "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-0.1.0-debug.apk"
+    "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-0.1.0-debug.apk"
   },
   "harmonyos": {
     "version": "v0.1.0",
@@ -74,6 +74,6 @@
     "size": "4.0 MB",
     "md5": "1522e3c1e06b12a363a57f0bd80b9017",
     "sha256": "5286b29438871d06edbedd1b0d97974c5ffd04f745152d398eaa0c29ce644c7e",
-    "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.6.1/RouteScope-0.1.0-unsigned.hap"
+    "url": "https://github.com/DigitalVirt/RouteScope-Downloads/releases/download/v0.1.1-build.7.1/RouteScope-0.1.0-unsigned.hap"
   }
 }
